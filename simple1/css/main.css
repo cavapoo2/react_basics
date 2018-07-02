@@ -1,0 +1,15 @@
+html {color:black;}
+p {color:gray;
+   font: medium Helvetica;
+  }
+p.warning {font-weight:bold;
+	   color:black;}  
+/*shoud only be 1 id of important*/
+*#important { color:blue;}	   
+h1 {color:silver; background: white;
+    padding: 0.5em;
+    border: 1px solid black;
+    font-family: Charcoal, sans-serif;
+	}
+h2 {color:red; background: gray;}
+h3 {color:white; background: gray;}
